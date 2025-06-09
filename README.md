@@ -12,7 +12,7 @@ Este é um sistema simples em **C# console** para **cadastrar funcionários**, *
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/SistemaBeneficiosRH.git
+git clone https://github.com/IkkyLuiz/Sistema-de-gestao-de-beneficios-com-CSharp
 ```
 
 2. Acesse a pasta:
