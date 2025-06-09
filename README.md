@@ -41,3 +41,5 @@ MIT
 
 **Referência:**  
 📚 [Documentação Oficial do C# - Microsoft](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+📚 [Bootcamp Wex](https://www.dio.me/bootcamp/wex-end-end-engineering?ref=AF09NCKTFOJE)
+
