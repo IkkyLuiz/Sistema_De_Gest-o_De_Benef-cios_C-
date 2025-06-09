@@ -31,7 +31,7 @@ dotnet run
 
 ## Autor
 
-Criado por um RH que aprendeu a programar. 💻❤️
+Criado por Luiz Henrique, profissioanl de RH que está aprendendo a programar. 💻❤️
 
 ## Licença
 
